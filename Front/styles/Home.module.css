@@ -1,0 +1,17 @@
+.container {
+  padding: 0 2rem;
+  background-color: #FFF5E4;
+  height: 100vh;
+}
+.titulo{
+  color: #850E35;
+  text-align: center;
+}
+
+
+.qr {
+  margin: auto;
+  display: block;
+  height: 300px;
+}
+
